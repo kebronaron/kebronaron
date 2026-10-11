@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Kebron 👋🏽
 
-<!--
-**kebronaron/kebronaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering • Cloud • Backend • Healthcare Technology
 
-Here are some ideas to get you started:
+I build secure, scalable, and practical software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience in healthcare has shaped how I think about engineering:
+reliability, security, clarity, and the people depending on the system matter.
+
+## 🚀 Currently Building
+
+- Secure healthcare messaging systems
+- Cloud-based applications
+- Backend services
+- Full-stack projects
+
+## 🛠 Tech
+
+`TypeScript` `React` `Next.js` `Python` `C#` `Node.js`
+
+`PostgreSQL` `Redis` `AWS` `Docker` `REST APIs`
+
+## 🏥 Healthcare × Engineering
+
+Working in healthcare changed how I look at software.
+
+When people depend on a system to communicate, document information, and make decisions, reliability is not optional.
+
+That experience is one reason I'm especially interested in:
+
+**cloud infrastructure • testing • security • backend systems • reliable software**
+
+## ✍🏽 Beyond Engineering
+
+I also write about growth, learning, discipline, and becoming.
+
+## AFK.exe
+
+🎾 Tennis  
+🎳 Bowling  
+🏌🏽 Golf — loading...
+
+## 📫 Let's Connect
+
+LinkedIn • Portfolio • Email
